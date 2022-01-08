@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rajanraut
 - 👀 I’m interested in Web Development and C# Programming Languages and its related Technologies
 - 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on Dot net.
+- 💞️ I’m looking to collaborate on Dot net
 - 📫 How to reach me  https://facebook.com/rajanraut10000
 
 <!---
